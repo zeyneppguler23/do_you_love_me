@@ -1,1 +1,34 @@
+body {
+    background-color: #ffc0cb;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
 
+.container {
+    margin-top: 50px;
+}
+
+h1 {
+    color: #ff69b4;
+}
+
+.slider-container {
+    margin: 20px auto;
+    width: 300px;
+}
+
+.slider {
+    width: 100%;
+}
+
+.gif-container {
+    margin-top: 20px;
+}
+
+.gif-container img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+}
